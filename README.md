@@ -29,3 +29,4 @@ https://web-blogs-project.vercel.app
 | Backend / Auth | Appwrite             |
 | Styling        | Tailwind CSS         |
 | Build Tool     | Vite                 |
+| Text Editor    | Real Time Editor     |
